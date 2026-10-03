@@ -2,6 +2,8 @@
 
 # Qodri Muhamad
 
+<img src="./assets/rocket-rotate.gif" width="240" alt="Qrocketlab rotating rocket" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Business+Intelligence+%7C+Data+Analyst;Turning+Messy+Data+Into+Clear+Business+Decisions;Power+BI+%7C+SQL+%7C+Python+%7C+PostgreSQL;Building+Evidence-First+Data+Systems" alt="Typing SVG" />
 
 <br/>
